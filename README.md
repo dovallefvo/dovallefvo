@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">Code languages, frameworks, and tools that I use (for working or personal development):</h3>
+<h3 align="left">Code languages, frameworks, and tools (which I use for working or personal development):</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.python.org/static/community_logos/python-powered-h.svg" alt="java" width="40" height="42"/></a> 
