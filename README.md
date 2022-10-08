@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Felipe do Valle 👋</h1>
-<h3 align="center">I catch your needs, transform them into innovative ideas, thus producing high-result solutions</h3>
+<h3 align="center"><img src="https://media-exp1.licdn.com/dms/image/D4D16AQGfk5cIBgcVFw/profile-displaybackgroundimage-shrink_350_1400/0/1664326084788?e=1670457600&v=beta&t=Bgbl2AkBuMxMPN0x_wweo_hxU_b-P9mM3wl3O-47hSM" /></h3>
+
 
 - 🔭 I’m currently working on IT projects, using:
   - **Project Management** = Scrum, Agile, Design Thinking, Kanban, PMBOK;
